@@ -133,7 +133,7 @@ math-for-machine-learning/
 - Neural Network math intuition
 
 ---
-
+```
 ## 📘 Notebook Structure
 
 Each notebook follows this format:
@@ -144,10 +144,7 @@ Each notebook follows this format:
 4️⃣ Python Implementation
 5️⃣ ML Connection
 6️⃣ Summary
-
-yaml
-Copy code
-
+```
 ---
 
 ## 🗺 Learning Roadmap

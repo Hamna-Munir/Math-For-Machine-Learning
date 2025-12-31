@@ -171,7 +171,7 @@ Check `CONTRIBUTING.md` for guidelines.
 ## 📚 References
 
 All learning resources, books, and research papers are listed in:
-references/
+references.
 
 
 ---
@@ -183,4 +183,11 @@ references/
 If you find this repository helpful, **star ⭐ it** and share it with other learners.
 
 Happy Learning   
-**Developed by:** Hamna Munir  
+---
+
+<div align="center">
+
+### Made with ❤️ by **Hamna Munir**
+
+</div>
+ 

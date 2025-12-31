@@ -245,4 +245,4 @@ You will be able to:
 
 Stay consistent, don’t rush, and focus on **understanding**, not speed.
 
-**— Hamna Munir**
+**Developed by — Hamna Munir**

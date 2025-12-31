@@ -152,9 +152,6 @@ Each notebook follows this format:
 A complete learning roadmap is available in:
 roadmap.md
 
-yaml
-Copy code
-
 It guides you from **Beginner → Intermediate → Advanced** math for ML.
 
 ---
@@ -176,8 +173,6 @@ Check `CONTRIBUTING.md` for guidelines.
 All learning resources, books, and research papers are listed in:
 references/
 
-yaml
-Copy code
 
 ---
 
@@ -188,4 +183,4 @@ Copy code
 If you find this repository helpful, **star ⭐ it** and share it with other learners.
 
 Happy Learning   
-** Hamna Munir**
+**Developed by:** Hamna Munir  

@@ -43,6 +43,7 @@ This repo solves that problem by:
 
 ## 📂 Repository Structure
 
+```
 math-for-machine-learning/
 │
 ├── 00-prerequisites/
@@ -62,9 +63,7 @@ math-for-machine-learning/
 ├── roadmap.md
 ├── README.md
 └── LICENSE
-
-markdown
-Copy code
+```
 
 ---
 
@@ -191,5 +190,5 @@ Copy code
 
 If you find this repository helpful, **star ⭐ it** and share it with other learners.
 
-Happy Learning 🚀  
-**— Hamna Munir**
+Happy Learning   
+** Hamna Munir**

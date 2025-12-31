@@ -31,7 +31,7 @@ For each topic:
 - Plotting basics (Matplotlib)
 ```
 📁 Folder:
-00-prerequisites/
+00-prerequisites
 
 ✅ Output:
 - Confident with NumPy
@@ -50,7 +50,7 @@ For each topic:
 - Linear independence
 ```
 📁 Folder:
-01-linear-algebra/
+01-linear-algebra
 
 ✅ Output:
 - Understand how data is represented in ML
@@ -68,14 +68,14 @@ For each topic:
 - Diagonalization
 - Orthogonality & projections
 - Singular Value Decomposition (SVD)
-
+```
 📁 Folder:
 01-linear-algebra/
 
 ✅ Output:
 - Understand PCA & dimensionality reduction math
 - Strong matrix intuition
-
+```
 ---
 
 ### 📉 Week 4: Calculus – Basics
@@ -87,14 +87,14 @@ For each topic:
 - Partial derivatives
 - Gradients
 - Chain rule
-
+```
 📁 Folder:
-02-calculus/
+02-calculus
 
 ✅ Output:
 - Understand gradient descent conceptually
 - Can compute gradients in Python
-
+```
 ---
 
 ## 📅 MONTH 2 – Core ML Math (Weeks 5–8)
@@ -107,14 +107,14 @@ For each topic:
 - Taylor series
 - Optimization intuition
 - Calculus in ML
-
+```
 📁 Folder:
-02-calculus/
+02-calculus
 
 ✅ Output:
 - Understand backpropagation math
 - Ready for optimization concepts
-
+```
 ---
 
 ### 🎲 Week 6: Probability
@@ -128,14 +128,14 @@ For each topic:
 - Bayes theorem
 - Law of Large Numbers
 - Central Limit Theorem
-
+```
 📁 Folder:
-03-probability/
+03-probability
 
 ✅ Output:
 - Understand probabilistic ML models
 - Strong intuition for uncertainty
-
+```
 ---
 
 ### 📊 Week 7: Statistics
@@ -148,14 +148,14 @@ For each topic:
 - Confidence intervals
 - Correlation vs covariance
 - Bias–variance tradeoff
-
+```
 📁 Folder:
-04-statistics/
+04-statistics
 
 ✅ Output:
 - Can analyze datasets correctly
 - Understand overfitting & underfitting
-
+```
 ---
 
 ### 🚀 Week 8: Optimization
@@ -169,14 +169,14 @@ For each topic:
 - Adam optimizer
 - Learning rate strategies
 - Regularization techniques
-
+```
 📁 Folder:
-05-optimization/
+05-optimization
 
 ✅ Output:
 - Can implement training loops
 - Understand optimizer behavior
-
+```
 ---
 
 ## 📅 MONTH 3 – Advanced & Application (Weeks 9–10)
@@ -189,9 +189,9 @@ For each topic:
 - Cross-entropy
 - KL divergence
 - Mutual information
-
+```
 📁 Folder:
-06-information-theory/
+06-information-theory
 
 **Numerical Methods**
 - Floating-point errors
@@ -199,12 +199,12 @@ For each topic:
 - Matrix conditioning
 
 📁 Folder:
-07-numerical-methods/
+07-numerical-methods
 
 ✅ Output:
 - Understand why cross-entropy is used
 - Avoid numerical instability in ML code
-
+```
 ---
 
 ### 🔬 Week 10: ML Math Case Studies
@@ -215,17 +215,17 @@ For each topic:
 - Gradient descent visualization
 - PCA from scratch
 - Neural network math intuition
-
+```
 📁 Folder:
-08-ml-math-case-studies/
+08-ml-math-case-studies
 
 ✅ Output:
 - Can explain ML math confidently
 - Ready to move into full ML & DL
-
+```
 ---
 
-## 🎯 Final Outcome After 2–3 Months
+##  Final Outcome After 2–3 Months
 
 You will be able to:
 - Understand ML papers mathematically

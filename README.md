@@ -133,9 +133,9 @@ math-for-machine-learning/
 - Neural Network math intuition
 
 ---
-```
-## 📘 Notebook Structure
 
+## 📘 Notebook Structure
+```
 Each notebook follows this format:
 
 1️⃣ Concept Overview

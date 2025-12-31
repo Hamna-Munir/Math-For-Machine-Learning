@@ -33,9 +33,6 @@ For each topic:
 📁 Folder:
 00-prerequisites/
 
-yaml
-Copy code
-
 ✅ Output:
 - Confident with NumPy
 - Can represent math in code
@@ -54,9 +51,6 @@ Copy code
 
 📁 Folder:
 01-linear-algebra/
-
-yaml
-Copy code
 
 ✅ Output:
 - Understand how data is represented in ML
@@ -78,9 +72,6 @@ Copy code
 📁 Folder:
 01-linear-algebra/
 
-yaml
-Copy code
-
 ✅ Output:
 - Understand PCA & dimensionality reduction math
 - Strong matrix intuition
@@ -99,9 +90,6 @@ Copy code
 
 📁 Folder:
 02-calculus/
-
-yaml
-Copy code
 
 ✅ Output:
 - Understand gradient descent conceptually
@@ -122,9 +110,6 @@ Copy code
 
 📁 Folder:
 02-calculus/
-
-markdown
-Copy code
 
 ✅ Output:
 - Understand backpropagation math
@@ -147,9 +132,6 @@ Copy code
 📁 Folder:
 03-probability/
 
-yaml
-Copy code
-
 ✅ Output:
 - Understand probabilistic ML models
 - Strong intuition for uncertainty
@@ -169,9 +151,6 @@ Copy code
 
 📁 Folder:
 04-statistics/
-
-markdown
-Copy code
 
 ✅ Output:
 - Can analyze datasets correctly
@@ -194,9 +173,6 @@ Copy code
 📁 Folder:
 05-optimization/
 
-yaml
-Copy code
-
 ✅ Output:
 - Can implement training loops
 - Understand optimizer behavior
@@ -217,9 +193,6 @@ Copy code
 📁 Folder:
 06-information-theory/
 
-markdown
-Copy code
-
 **Numerical Methods**
 - Floating-point errors
 - Numerical stability
@@ -227,9 +200,6 @@ Copy code
 
 📁 Folder:
 07-numerical-methods/
-
-yaml
-Copy code
 
 ✅ Output:
 - Understand why cross-entropy is used
@@ -248,9 +218,6 @@ Copy code
 
 📁 Folder:
 08-ml-math-case-studies/
-
-yaml
-Copy code
 
 ✅ Output:
 - Can explain ML math confidently

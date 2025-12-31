@@ -29,14 +29,14 @@ For each topic:
 - Broadcasting
 - Mathematical notation used in ML
 - Plotting basics (Matplotlib)
-
+```
 📁 Folder:
 00-prerequisites/
 
 ✅ Output:
 - Confident with NumPy
 - Can represent math in code
-
+```
 ---
 
 ### 📐 Week 2: Linear Algebra – Part 1
@@ -48,14 +48,14 @@ For each topic:
 - Linear combinations
 - Span, basis, dimension
 - Linear independence
-
+```
 📁 Folder:
 01-linear-algebra/
 
 ✅ Output:
 - Understand how data is represented in ML
 - Can implement vector math in Python
-
+```
 ---
 
 ### 📐 Week 3: Linear Algebra – Part 2

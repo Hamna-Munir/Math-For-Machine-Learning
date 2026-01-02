@@ -143,4 +143,4 @@ Understanding these symbols allows you to:
 
 ---
 
-**Developed by — Hamna Munir  **
+Developed by — Hamna Munir  

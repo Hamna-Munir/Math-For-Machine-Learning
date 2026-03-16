@@ -129,5 +129,5 @@ After completing this section, you will understand:
 
 ## Author
 
-**Hamna Munir**
+**Hamna Munir** – 
 Passionate about Mathematics, Statistics, and Machine Learning.

@@ -129,4 +129,4 @@ Feel free to use, modify, and share for learning.
 
 ## Author
 
-**Hamna Munir** – passionate about Mathematics, Optimization, and Machine Learning 🚀
+**Hamna Munir** – passionate about Mathematics, Optimization, and Machine Learning 

@@ -9,6 +9,10 @@ This folder contains sample datasets used across different notebooks in the repo
 ```
 datasets/
 ├── sample_data.csv
+├── student_performance.csv
+├── house_prices.csv
+├── medical_data.csv
+├── customer_data.csv
 └── README.md
 
 ```

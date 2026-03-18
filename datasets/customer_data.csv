@@ -1,0 +1,121 @@
+CustomerID,Name,Age,Gender,City,AnnualIncome,SpendingScore,Membership,Churn
+1,John Smith,28,Male,New York,55000,60,Gold,No
+2,Emma Johnson,35,Female,Los Angeles,72000,80,Platinum,No
+3,Michael Brown,42,Male,Chicago,48000,45,Silver,Yes
+4,Olivia Davis,30,Female,Houston,60000,70,Gold,No
+5,William Miller,50,Male,Phoenix,95000,90,Platinum,No
+6,Ava Wilson,27,Female,Philadelphia,54000,65,Gold,No
+7,James Moore,38,Male,San Antonio,68000,50,Silver,Yes
+8,Sophia Taylor,31,Female,San Diego,61000,72,Gold,No
+9,Benjamin Anderson,45,Male,Dallas,85000,88,Platinum,No
+10,Isabella Thomas,29,Female,San Jose,57000,68,Gold,No
+11,Lucas Jackson,33,Male,Austin,64000,55,Silver,Yes
+12,Mia White,26,Female,Jacksonville,53000,62,Gold,No
+13,Henry Harris,41,Male,Fort Worth,77000,85,Platinum,No
+14,Charlotte Martin,34,Female,Columbus,69000,75,Gold,No
+15,Alexander Thompson,36,Male,San Francisco,71000,60,Silver,Yes
+16,Amelia Garcia,32,Female,Charlotte,65000,78,Gold,No
+17,Daniel Martinez,48,Male,Indianapolis,90000,92,Platinum,No
+18,Evelyn Robinson,25,Female,Seattle,50000,58,Gold,No
+19,Matthew Clark,37,Male,Denver,73000,65,Silver,Yes
+20,Harper Rodriguez,28,Female,Washington,56000,70,Gold,No
+21,Jackson Lewis,39,Male,Boston,78000,85,Platinum,No
+22,Abigail Lee,31,Female,El Paso,62000,68,Gold,No
+23,Logan Walker,44,Male,Nashville,88000,90,Platinum,No
+24,Emily Hall,27,Female,Detroit,54000,60,Gold,No
+25,David Allen,46,Male,Memphis,92000,95,Platinum,No
+26,Elizabeth Young,30,Female,Portland,60000,72,Gold,No
+27,Joseph Hernandez,35,Male,Oklahoma City,70000,80,Silver,Yes
+28,Sofia King,29,Female,Las Vegas,58000,68,Gold,No
+29,Samuel Wright,43,Male,Louisville,86000,88,Platinum,No
+30,Chloe Scott,26,Female,Baltimore,52000,62,Gold,No
+31,David Allen,50,Male,Milwaukee,97000,90,Platinum,No
+32,Alice Brown,33,Female,Albuquerque,63000,70,Gold,No
+33,Christopher Green,37,Male,Tucson,74000,77,Silver,Yes
+34,Grace Adams,28,Female,Fresno,55000,65,Gold,No
+35,Anthony Baker,41,Male,Sacramento,81000,85,Platinum,No
+36,Ella Gonzalez,29,Female,Kansas City,58000,72,Gold,No
+37,Joshua Nelson,36,Male,Long Beach,71000,80,Silver,Yes
+38,Lily Carter,27,Female,Mesa,54000,66,Gold,No
+39,Andrew Mitchell,45,Male,Atlanta,90000,92,Platinum,No
+40,Victoria Perez,32,Female,Omaha,65000,75,Gold,No
+41,Brandon Roberts,38,Male,Raleigh,76000,82,Silver,Yes
+42,Hannah Turner,30,Female,Miami,60000,70,Gold,No
+43,Nicholas Phillips,49,Male,Oakland,95000,95,Platinum,No
+44,Scarlett Campbell,25,Female,Minneapolis,51000,60,Gold,No
+45,Alexander Parker,34,Male,Tulsa,70000,78,Silver,Yes
+46,Zoe Evans,28,Female,Arlington,56000,68,Gold,No
+47,Jonathan Edwards,40,Male,New Orleans,85000,88,Platinum,No
+48,Nora Collins,31,Female,Wichita,62000,72,Gold,No
+49,Christian Stewart,42,Male,Cleveland,88000,90,Platinum,No
+50,Samantha Sanchez,29,Female,Tampa,59000,70,Gold,No
+51,Tyler Morris,37,Male,Aurora,74000,80,Silver,Yes
+52,Avery Rogers,26,Female,Honolulu,52000,60,Gold,No
+53,Justin Reed,45,Male,Anaheim,91000,95,Platinum,No
+54,Penelope Cook,32,Female,Santa Ana,65000,75,Gold,No
+55,Ethan Morgan,35,Male,Riverside,71000,82,Silver,Yes
+56,Aria Bell,28,Female,Corpus Christi,56000,68,Gold,No
+57,Christian Murphy,44,Male,Lexington,88000,90,Platinum,No
+58,Elizabeth Bailey,30,Female,Henderson,60000,70,Gold,No
+59,Joseph Rivera,39,Male,Stockton,78000,85,Silver,Yes
+60,Chloe Cooper,27,Female,St. Paul,54000,65,Gold,No
+61,David Richardson,46,Male,Cincinnati,92000,95,Platinum,No
+62,Mia Howard,31,Female,St. Louis,62000,72,Gold,No
+63,Andrew Ward,36,Male,Pittsburgh,75000,80,Silver,Yes
+64,Amelia Torres,29,Female,Greensboro,58000,68,Gold,No
+65,Matthew Peterson,43,Male,Lincoln,86000,88,Platinum,No
+66,Ella Gray,26,Female,Anchorage,52000,62,Gold,No
+67,Joshua Ramirez,40,Male,Plano,82000,85,Platinum,No
+68,Lily James,28,Female,Orlando,55000,66,Gold,No
+69,Daniel Watson,37,Male,Irving,74000,80,Silver,Yes
+70,Sophia Brooks,30,Female,Newark,60000,70,Gold,No
+71,Alexander Kelly,48,Male,Durham,90000,92,Platinum,No
+72,Victoria Sanders,25,Female,Chula Vista,51000,60,Gold,No
+73,Brandon Price,34,Male,Toledo,70000,78,Silver,Yes
+74,Harper Bennett,28,Female,Fort Wayne,56000,68,Gold,No
+75,Jonathan Wood,41,Male,St. Petersburg,81000,85,Platinum,No
+76,Abigail Barnes,29,Female,Laredo,58000,72,Gold,No
+77,Samuel Ross,36,Male,Jackson,71000,80,Silver,Yes
+78,Emily Henderson,27,Female,Madison,54000,66,Gold,No
+79,Anthony Coleman,45,Male,Lubbock,90000,92,Platinum,No
+80,Scarlett Jenkins,32,Female,Chandler,65000,75,Gold,No
+81,Christopher Perry,38,Male,Scottsdale,76000,82,Silver,Yes
+82,Hannah Powell,30,Female,Glendale,60000,70,Gold,No
+83,Nicholas Long,49,Male,Reno,95000,95,Platinum,No
+84,Zoey Patterson,25,Female,Buffalo,51000,60,Gold,No
+85,Logan Hughes,34,Male,North Las Vegas,70000,78,Silver,Yes
+86,Aria Flores,28,Female,Gilbert,56000,68,Gold,No
+87,David Washington,40,Male,Boise,85000,88,Platinum,No
+88,Penelope Butler,31,Female,Baton Rouge,62000,72,Gold,No
+89,Christian Simmons,42,Male,Des Moines,88000,90,Platinum,No
+90,Mia Foster,29,Female,San Bernardino,59000,70,Gold,No
+91,Joshua Gonzales,37,Male,Spokane,74000,80,Silver,Yes
+92,Lily Bryant,26,Female,Modesto,52000,60,Gold,No
+93,Matthew Alexander,45,Male,Fayetteville,91000,95,Platinum,No
+94,Amelia Russell,32,Female,Shreveport,65000,75,Gold,No
+95,Alexander Griffin,35,Male,Tacoma,71000,82,Silver,Yes
+96,Chloe Diaz,28,Female,Oxnard,56000,68,Gold,No
+97,Daniel Hayes,44,Male,Fontana,88000,90,Platinum,No
+98,Elizabeth Myers,30,Female,Columbus,60000,70,Gold,No
+99,Joseph Ford,39,Male,Montgomery,78000,85,Silver,Yes
+100,Harper Hamilton,27,Female,Moreno Valley,54000,65,Gold,No
+101,David Graham,46,Male,Sharonville,92000,95,Platinum,No
+102,Mia Sullivan,31,Female,Newport News,62000,72,Gold,No
+103,Andrew Wallace,36,Male,Overland Park,75000,80,Silver,Yes
+104,Amelia West,29,Female,Knoxville,58000,68,Gold,No
+105,Matthew Cole,43,Male,Baton Rouge,86000,88,Platinum,No
+106,Ella Fisher,26,Female,Peoria,52000,62,Gold,No
+107,Joshua Ellis,40,Male,Simi Valley,82000,85,Platinum,No
+108,Lily Harrison,28,Female,Escondido,55000,66,Gold,No
+109,Daniel Gibson,37,Male,Pasadena,74000,80,Silver,Yes
+110,Sophia McDonald,30,Female,Sunnyvale,60000,70,Gold,No
+111,Alexander Cruz,48,Male,Fullerton,90000,92,Platinum,No
+112,Victoria Marshall,25,Female,Orange,51000,60,Gold,No
+113,Brandon Ortiz,34,Male,Murfreesboro,70000,78,Silver,Yes
+114,Harper Medina,28,Female,Carlsbad,56000,68,Gold,No
+115,Jonathan Hunt,41,Male,Hampton,81000,85,Platinum,No
+116,Abigail Rogers,29,Female,Frisco,58000,72,Gold,No
+117,Samuel Reed,36,Male,Chesapeake,71000,80,Silver,Yes
+118,Emily Cook,27,Female,Glendale,54000,66,Gold,No
+119,Anthony Morgan,45,Male,Garland,90000,92,Platinum,No
+120,Scarlett Bell,32,Female,Reno,65000,75,Gold,No
